@@ -21,22 +21,30 @@ Projetar e constuir um jogo da memória com led's e efeitos sonoros utilizando A
 
 <img src="https://i.imgur.com/E4b1Ex7.png">
 
+* **Link para a simulação do projeto no Tinkercad:** https://www.tinkercad.com/things/316zUlV3nzP-brilliant-amur/editel?tenant=circuits
+
 ## Foto do projeto montado
 
 ## Componentes do projeto
 
 |  Quantidade  |  Componente  |  Especificações  |  Preço  |
 |---|---|---|---|
-| 1x | Potenciômetro | 1W B5K B-16 5XE-20XR-7MM J | R$ 7,00 |
-| 1x | Diodo zener | 13V 1W = 1N4743 SEMTECH | R$ 0,48 |
-| 1x | Capacitor | capacitor ELCO 680uF X 10V 105ºC 12,2 X 8 TOP | R$ 1,40 |
-| 1x | Transistor | transistor BC548B N 30V 0,1A 0,5W 300MHZ TOP | R$ 0,50 |
-| 4x | Diodo | diodo retificador 1N4007 LGE = 1N4004 | R$ 0,20 |
-| 4x | Resistor 1k | resistor CR25 1K carvão LGE | R$ 0,07 |
-| 1x | Resistor 2k | resistor CR25 2K2 carvão ROHS | R$ 0,07 |
-| 1x | Transformador | 127V - 24V | - |
+| 1x | Arduino UNO | Arduíno UNO Atmega328 Smd | R$ 110,00 |
+| 1x | Buzzer | Sonalarme SEM-12A-3 / 7V-C-N 3A 7V DIGILECT| R$ 8,50 |
+| 2x | Resistor 220Ω | Resistor CR25 220R Carvão | R$ 0,14 |
+| 1x | Resistor 100Ω | Resistor CR25 100R Carvão ROHS | R$ 0,07 |
+| 1x | Resistor 470Ω | Resistor CR25 100R Carvão LGE | R$ 0,20 |
+| 1x | LED vermelho | LED 5MM VM Difuso 333-2SDRD/S530-L EVERLIGHT | R$ 0,50 |
+| 1x | LED amarelo | LED 5MM AM Difuso 333UTD/S530-A3 EVERLIGHT | R$ 0,50 |
+| 1x | LED verde | LED 5MM VR Difuso EVERLIGHT | R$ 0,50 |
+| 1x | LED azul | LED 5MM AZ Difuso EVERLIGHT | R$ 2,00 |
+| 12x | Fios Jumpers | - | - |
+| 4x | Fios | - | - |
 | 1x | Protoboard | - | - |
-| Total | - | - | R$ 10,53 |
+| Total | - | - | R$ 122,55 |
+
+Obs.: Os fios e protoboard foram emprestados do laboratório.
+
 
 
 # Vídeos

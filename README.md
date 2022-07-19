@@ -43,7 +43,7 @@ Projetar e constuir um jogo da memória com led's e efeitos sonoros utilizando A
 | 1x | Protoboard | - | - |
 | Total | - | - | R$ 122,55 |
 
-* **Obs.: Os fios e protoboard foram emprestados do laboratório.
+* Obs.: Os fios e protoboard foram emprestados do laboratório.
 
 
 

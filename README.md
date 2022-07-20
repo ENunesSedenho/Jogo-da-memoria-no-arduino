@@ -33,7 +33,7 @@ Projetar e constuir um jogo da memória com led's e efeitos sonoros utilizando A
 
 <img src="https://i.imgur.com/DDXITig.png">
 
-* Inicialização das variáveis globais:
+## Inicialização das variáveis globais:
 Definimos um número máximo de números sorteados como 20, ou seja, a sequência máxima à ser memorizada é de 20 leds.
 As variáveis "numAtualSorteado" e "numAtualEscolhido" correspondem ao led correspondente da sequência sorteada, e aquele que foi escolhido pelo usuário, posteriormente, as variáveis são comparadas para analisar a continuidade do jogo.
 Nível corresponde ao nível em que o jogo se encontra, ou seja, quantas sequências já se passaram.
@@ -41,13 +41,13 @@ Nível corresponde ao nível em que o jogo se encontra, ou seja, quantas sequên
 
 <img src="https://i.imgur.com/rnqmxho.png">
 
-* Reiniciando o jogo:
+## Reiniciando o jogo:
 Essa função é encarregada de restaurar as variáveis para seus valores padrão.
 Quando a função é chamada, os leds brilham ao mesmo tempo e, na sequência, o nível volta para o 0 e os números são sorteados novamente.
 
 <img src="https://i.imgur.com/3HcBvsu.png">
 
-* Função para a escolha errada:
+## Função para a escolha errada:
 Quando o jogador erra a sequência, o programa inicia um laço para piscar repetidamente os leds e emitir efeitos sonoros (o laço ocorre por 3 vezes).
 Na sequência, os números sorteados são redeclarados para 0, e a função "reiniciar" é chamada para recomeçar o jogo.
 
@@ -55,14 +55,14 @@ Na sequência, os números sorteados são redeclarados para 0, e a função "rei
 
 <img src="https://i.imgur.com/rb3qi1F.png">
 
-* Mostrando a sequência dos leds sorteados:
+## Mostrando a sequência dos leds sorteados:
 Cada número sorteado corresponde a um led, 1 para verde, 2 para vermelho, 3 para amarelo e 4 para azul.
 Uma vez que o vetor de núemros sorteados foi inicializado com a sequência da atual rodada, essa função é iniciada.
 Um laço que vai de 0 até o nível atual (quantidade de números do vetor) faz com que, para cada posição deslocada no vetor, o led correspondente ao número brilhe e um efeito sonoro seja produzido.
 
 <img src="https://i.imgur.com/uK3prFK.png">
 
-* Verificando se o usuário acertou a sequência:
+## Verificando se o usuário acertou a sequência:
 Caso o usuário erre o led, a função de escolha errada é chamada, caso contrário, o led por ele selecionado brilha, e um efeito sonoro é emitido.
 Na sequencia, uma condicional verifica se o número de acertos corresponde ao nível atual do código, caso isso aconteça, significa que o usuário acertou toda a sequência, então o programa incrementa o nível, define a variável "verifica" como 0, sinalizando que não há mais nenhum número à ser verificado ("verifica" corresponde ao índice do vetor de números sorteados) e define a variável booleana "sortear" como verdadeira, indicando que um novo número deve ser sorteado.
 Se houver mais algum número à ser verificado no vetor, incrementamos a variável "verifica".
@@ -71,7 +71,7 @@ Se houver mais algum número à ser verificado no vetor, incrementamos a variáv
 
 <img src="https://i.imgur.com/YtT0WJr.png">
 
-* Laço principal do programa:
+## Laço principal do programa:
 Caso o jogador tenha atingido o nível máximo, o jogo é reiniciado.
 Caso contrário, o programa analisa a variável "sortear", caso ela seja verdadeira, sorteamos um novo número correspondente ao nível e chamamos a função que mostra a sequência atual ao usuário.
 Na sequência, o programa lê o botão pressionado pelo usuário e chama a função para verificar se o número escolhido é o número correto. 

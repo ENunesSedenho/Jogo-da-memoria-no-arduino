@@ -84,7 +84,7 @@ O botão superior no projeto (correspondente à D6 tem a função de reiniciar o
 
 |  Quantidade  |  Componente  |  Especificações  |  Preço  |
 |---|---|---|---|
-| 1x | Arduino UNO | Arduíno UNO Atmega328 Smd | R$ 110,00 |
+| 1x | Arduino UNO | Arduíno UNO 5V Atmega328 Smd | R$ 110,00 |
 | 1x | Buzzer | Sonalarme SEM-12A-3 / 7V-C-N 3A 7V DIGILECT| R$ 8,50 |
 | 2x | Resistor 220Ω | Resistor CR25 220R Carvão | R$ 0,14 |
 | 1x | Resistor 100Ω | Resistor CR25 100R Carvão ROHS | R$ 0,07 |

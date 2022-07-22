@@ -1,5 +1,7 @@
 # Trabalho 2 - Jogo da memória com Arduino
 
+Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC.
+
 
 # Grupo 44
 Enzo Nunes Sedenho - 13671810

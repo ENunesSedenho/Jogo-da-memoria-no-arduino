@@ -21,7 +21,7 @@ Projetar e constuir um jogo da memória com led's e efeitos sonoros utilizando A
 
 ## Simulação do projeto no Tinkercad
 
-<img src="https://i.imgur.com/DIRIFlT.png">
+<img src="https://i.imgur.com/fVkWmzY.png">
 
 ## Diagrama esquemático no Tinkercad
 

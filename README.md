@@ -10,6 +10,24 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 | 13672766 | Pedro Augusto Monteiro Delgado | 
 | 13677239 | Yvin Miguel Juanico Carvalho | 
 
+# Componentes da fonte
+
+|  Qtd.  |  Componente |  Preço  |
+|---|---|---|
+| 1x | Arduino UNO | R$ XXX |
+| 5x | Push button | R$ xxx |
+| 1x | Buzzer 5V | R$ xxx |
+| 1x | Led difuso Azul | R$ xx |
+| 1x | Led difuso Verde | R$ xxx |
+| 1x | Led difuso Vermelho | R$ xxx |
+| 1x | Led difuso Amarelo | R$ xxx |
+| 1x | Resistor 470 Ω| R$ xx |
+| 3x | Resistor 220 Ω | R$ xx |
+| 1x | Protoboard | - | - |
+| Total | - | R$ 10,39 |
+
+* Obs.: Os fios e a protoboard foram emprestados do laboratório.
+
 # Diagramas do projeto 
 
 ## Simulação do projeto no Tinkercad

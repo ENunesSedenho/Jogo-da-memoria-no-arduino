@@ -1,21 +1,14 @@
 # Trabalho 2 - Jogo da memória com Arduino
 
-Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC. O objetivo é projetar e construir um circuito funcional utilizando o Arduino. Nesse caso, foi construido um jogo da memória com leds e efeitos sonoros, inspirado no Genius.
+Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC. O objetivo é projetar e construir um circuito funcional utilizando o Arduino. Nesse caso, foi construido um jogo da memória com leds e efeitos sonoros, inspirado no Genius, utilizando um Arduino UNO.
 
-
-# Grupo 44
-Enzo Nunes Sedenho - 13671810
-
-Pedro Augusto Monteiro Delgado - 13672766
-
-Luis Henrique Giorgetti Dantas - 13782369
-
-Yvin Miguel Juanico Carvalho - 13677239
-
-
-# Objetivo
-Projetar e constuir um jogo da memória com led's e efeitos sonoros utilizando Arduino UNO.
-
+## Grupo 44
+|  Nº USP  |  Aluno  |
+|---|---|
+| 13671810 | Enzo Nunes Sedenho | 
+| 13782369 | Luis Henrique Giorgetti Dantas | 
+| 13672766 | Pedro Augusto Monteiro Delgado | 
+| 13677239 | Yvin Miguel Juanico Carvalho | 
 
 # Diagramas do projeto 
 

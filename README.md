@@ -15,18 +15,18 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 |  Qtd.  |  Componente |  Preço  |
 |---|---|---|
 | 1x | Arduino UNO | R$ XXX |
-| 5x | Push button | R$ xxx |
-| 1x | Buzzer 5V | R$ xxx |
-| 1x | Led difuso Azul | R$ xx |
-| 1x | Led difuso Verde | R$ xxx |
-| 1x | Led difuso Vermelho | R$ xxx |
-| 1x | Led difuso Amarelo | R$ xxx |
-| 1x | Resistor 470 Ω| R$ xx |
-| 3x | Resistor 220 Ω | R$ xx |
+| 5x | Push button | R$ 0,70 |
+| 1x | Buzzer ativo 5V | R$ 8,00 |
+| 1x | Led difuso 5mm azul | R$ 2,00 |
+| 1x | Led difuso 5mm verde | R$ 0,50 |
+| 1x | Led difuso 5mm vermelho | R$ 0,50 |
+| 1x | Led difuso 5mm amarelo | R$ 0,50 |
+| 1x | Resistor 470 Ω | R$ 0,70 |
+| 3x | Resistor 220 Ω | R$ 0,70 |
 | 1x | Protoboard | - | - |
-| Total | - | R$ 10,39 |
+| Total | - | R$ XXXX |
 
-* Obs.: Os fios e a protoboard foram emprestados do laboratório.
+_Obs.: Os fios e a protoboard foram emprestados do laboratório._
 
 # Diagramas do projeto 
 

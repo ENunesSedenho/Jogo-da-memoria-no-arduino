@@ -1,6 +1,6 @@
 # Trabalho 2 - Jogo da memória com Arduino
 
-Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC.
+Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC. O objetivo é projetar e construir um circuito funcional utilizando o Arduino. Nesse caso, foi construido um jogo da memória com leds e efeitos sonoros, inspirado no Genius.
 
 
 # Grupo 44

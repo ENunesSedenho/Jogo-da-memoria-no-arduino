@@ -2,6 +2,8 @@
 
 Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professor Eduardo Simões - USP São Carlos, ICMC. O objetivo é projetar e construir um circuito funcional utilizando o Arduino. Nesse caso, foi construido um jogo da memória com leds e efeitos sonoros, inspirado no Genius, utilizando um Arduino UNO.
 
+> [Vídeo de demonstração do circuito](https://youtu.be/0idglTDbHpw)
+
 ## Grupo 44
 |  Nº USP  |  Aluno  |
 |---|---|
@@ -47,8 +49,6 @@ _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 > Conexões e componentes do circuito
 <img src="https://i.imgur.com/lYcuxEG.jpg">
 
-> [Vídeo de demonstração do circuito](https://youtu.be/0idglTDbHpw)
-
 # Cálculos
 > Cálculos realizados para projetar o circuito
 <img src="https://i.imgur.com/XjGQf3z.png">
@@ -75,7 +75,6 @@ Quando o jogador erra a sequência, o programa inicia um laço para piscar repet
 Cada número sorteado corresponde a um led, 1 para verde, 2 para vermelho, 3 para amarelo e 4 para azul.
 Uma vez que o vetor de núemros sorteados foi inicializado com a sequência da atual rodada, essa função é iniciada. Um laço que vai de 0 até o nível atual (quantidade de números do vetor) faz com que, para cada posição deslocada no vetor, o led correspondente ao número brilhe e um efeito sonoro seja produzido.
 
-
 ## Verificando se o jogador acertou a sequência
 <img src="https://i.imgur.com/uK3prFK.png">
 Caso o usuário erre o led, a função de escolha errada é chamada, caso contrário, o led por ele selecionado brilha, e um efeito sonoro é emitido. Na sequencia, uma condicional verifica se o número de acertos corresponde ao nível atual do código, caso isso aconteça, significa que o usuário acertou toda a sequência, então o programa incrementa o nível, define a variável "verifica" como 0, sinalizando que não há mais nenhum número à ser verificado ("verifica" corresponde ao índice do vetor de números sorteados) e define a variável booleana "sortear" como verdadeira, indicando que um novo número deve ser sorteado. Se houver mais algum número à ser verificado no vetor, incrementamos a variável "verifica".
@@ -83,5 +82,3 @@ Caso o usuário erre o led, a função de escolha errada é chamada, caso contr�
 ## Laço principal do programa
 <img src="https://i.imgur.com/t9K0Rw6.png">
 Caso o jogador tenha atingido o nível máximo, o jogo é reiniciado. Caso contrário, o programa analisa a variável "sortear", caso ela seja verdadeira, sorteamos um novo número correspondente ao nível e chamamos a função que mostra a sequência atual ao usuário. Na sequência, o programa lê o botão pressionado pelo usuário e chama a função para verificar se o número escolhido é o número correto. O botão superior no projeto (correspondente à D6 tem a função de reiniciar o programa, simplesmente para que não seja necessário reiniciar o arduino ou recompilar o código).
-
-# Vídeos

@@ -38,17 +38,15 @@ _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 > Diagrama esquemático do circuito no programa Tinkercad
 <img src="https://i.imgur.com/GCvSZ0i.png">
 
-
-## Fotos do circuito montado
+# Fotos do circuito montado
 
 > Visão geral do circuito
-<img src="https://i.imgur.com/Ky8oyaa.jpg">
+<img src="https://i.imgur.com/ngKpYBF.jpg">
 
-> Tensão mínima fornecida pelo circuito
-<img src="https://i.imgur.com/XeoWRnE.jpg">
+> Conexões e componentes do circuito
+<img src="https://i.imgur.com/lYcuxEG.jpg">
 
-> Tensão máxima fornecida pelo circuito
-<img src="https://i.imgur.com/J0DqqGh.jpg">
+> [Vídeo de demonstração do circuito](https://youtu.be/0idglTDbHpw)
 
 # Cálculos
 > Cálculos realizados para projetar o circuito

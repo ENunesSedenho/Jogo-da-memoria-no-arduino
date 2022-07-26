@@ -52,19 +52,7 @@ _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 > Cálculos realizados para projetar o circuito
 <img src="https://i.imgur.com/K7KXgve.png">
 
-> [Vídeo explicativo sobre o projeto](https://youtu.be/uK48WSZexMw)
-
-# Diagramas do projeto 
-
-## Simulação do projeto no Tinkercad
-
-<img src="https://i.imgur.com/TExPbqC.png">
-
-## Diagrama esquemático no Tinkercad
-
-<img src="https://i.imgur.com/KfnWCMk.png">
-
-* **Link para a simulação do projeto no Tinkercad:** https://www.tinkercad.com/things/316zUlV3nzP-brilliant-amur/editel?tenant=circuits
+> [Vídeo explicativo sobre o projeto](https://youtu.be/_4TR3g88akQ)
 
 ## Foto do projeto montado
 

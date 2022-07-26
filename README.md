@@ -32,7 +32,7 @@ _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 # Diagramas do projeto
 
 ## Circuito no Tinkercad
-> [Diagrama do circuito no simulador Tinkercad!!!!!!](https://tinyurl.com/29mso46y)
+> [Diagrama do circuito no simulador Tinkercad(https://www.tinkercad.com/things/316zUlV3nzP-brilliant-amur/editel?sharecode=ZDVESLm344NNm34ZEWPucYJBQrtOrZFcA-oQCMIJ-rM)
 <img src="https://i.imgur.com/q7dexZ6.png">
 
 ## Esquemático no Tinkercad
@@ -56,7 +56,7 @@ _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 > [Vídeo explicativo sobre o projeto](https://youtu.be/_4TR3g88akQ)
 
 # Explicação do código
-O código pode ser encontrado no link do [Tinkercad](https://tinyurl.com/29mso46y), na aba "Código" no canto superior direito.
+O código pode ser encontrado no link do [Tinkercad, na aba "Código" no canto superior direito.](https://www.tinkercad.com/things/316zUlV3nzP-brilliant-amur/editel?sharecode=ZDVESLm344NNm34ZEWPucYJBQrtOrZFcA-oQCMIJ-rM)
 
 ## Inicialização das variáveis globais
 <img src="https://i.imgur.com/DDXITig.png">

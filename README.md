@@ -28,6 +28,34 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 
 _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 
+# Diagramas do projeto
+
+## Circuito no Tinkercad
+> [Diagrama do circuito no simulador Tinkercad!!!!!!](https://tinyurl.com/29mso46y)
+<img src="https://i.imgur.com/q7dexZ6.png">
+
+## Esquemático no Tinkercad
+> Diagrama esquemático do circuito no programa Tinkercad
+<img src="https://i.imgur.com/GCvSZ0i.png">
+
+
+## Fotos do circuito montado
+
+> Visão geral do circuito
+<img src="https://i.imgur.com/Ky8oyaa.jpg">
+
+> Tensão mínima fornecida pelo circuito
+<img src="https://i.imgur.com/XeoWRnE.jpg">
+
+> Tensão máxima fornecida pelo circuito
+<img src="https://i.imgur.com/J0DqqGh.jpg">
+
+# Cálculos
+> Cálculos realizados para projetar o circuito
+<img src="https://i.imgur.com/K7KXgve.png">
+
+> [Vídeo explicativo sobre o projeto](https://youtu.be/uK48WSZexMw)
+
 # Diagramas do projeto 
 
 ## Simulação do projeto no Tinkercad

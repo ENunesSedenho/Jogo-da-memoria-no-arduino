@@ -32,7 +32,7 @@ _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 # Diagramas do projeto
 
 ## Circuito no Tinkercad
-> [Diagrama do circuito no simulador Tinkercad(https://www.tinkercad.com/things/316zUlV3nzP-brilliant-amur/editel?sharecode=ZDVESLm344NNm34ZEWPucYJBQrtOrZFcA-oQCMIJ-rM)
+> [Diagrama do circuito no simulador Tinkercad](https://www.tinkercad.com/things/316zUlV3nzP-brilliant-amur/editel?sharecode=ZDVESLm344NNm34ZEWPucYJBQrtOrZFcA-oQCMIJ-rM)
 <img src="https://i.imgur.com/q7dexZ6.png">
 
 ## Esquemático no Tinkercad

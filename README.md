@@ -51,7 +51,7 @@ _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 
 # Cálculos
 > Cálculos realizados para projetar o circuito
-<img src="https://i.imgur.com/K7KXgve.png">
+<img src="https://i.imgur.com/PO7fBiJ.png">
 
 > [Vídeo explicativo sobre o projeto](https://youtu.be/_4TR3g88akQ)
 

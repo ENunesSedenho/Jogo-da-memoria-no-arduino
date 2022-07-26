@@ -81,9 +81,7 @@ Uma vez que o vetor de núemros sorteados foi inicializado com a sequência da a
 Caso o usuário erre o led, a função de escolha errada é chamada, caso contrário, o led por ele selecionado brilha, e um efeito sonoro é emitido. Na sequencia, uma condicional verifica se o número de acertos corresponde ao nível atual do código, caso isso aconteça, significa que o usuário acertou toda a sequência, então o programa incrementa o nível, define a variável "verifica" como 0, sinalizando que não há mais nenhum número à ser verificado ("verifica" corresponde ao índice do vetor de números sorteados) e define a variável booleana "sortear" como verdadeira, indicando que um novo número deve ser sorteado. Se houver mais algum número à ser verificado no vetor, incrementamos a variável "verifica".
 
 ## Laço principal do programa
-<img src="https://i.imgur.com/J7aBFof.png">
-<img src="https://i.imgur.com/YtT0WJr.png">
+<img src="https://i.imgur.com/t9K0Rw6.png">
 Caso o jogador tenha atingido o nível máximo, o jogo é reiniciado. Caso contrário, o programa analisa a variável "sortear", caso ela seja verdadeira, sorteamos um novo número correspondente ao nível e chamamos a função que mostra a sequência atual ao usuário. Na sequência, o programa lê o botão pressionado pelo usuário e chama a função para verificar se o número escolhido é o número correto. O botão superior no projeto (correspondente à D6 tem a função de reiniciar o programa, simplesmente para que não seja necessário reiniciar o arduino ou recompilar o código).
-
 
 # Vídeos

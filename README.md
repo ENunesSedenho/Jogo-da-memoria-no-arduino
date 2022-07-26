@@ -17,7 +17,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 |  Qtd.  |  Componente |  Preço  |
 |---|---|---|
 | 1x | Arduino UNO | R$ XXX |
-| 5x | Push button | R$ 0,70 |
+| 5x | Push button 4 pinos | R$ 0,70 |
 | 1x | Buzzer ativo 5V | R$ 8,00 |
 | 1x | Led difuso 5mm azul | R$ 2,00 |
 | 1x | Led difuso 5mm verde | R$ 0,50 |
@@ -49,12 +49,6 @@ _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 > Conexões e componentes do circuito
 <img src="https://i.imgur.com/lYcuxEG.jpg">
 
-# Cálculos
-> Cálculos realizados para projetar o circuito
-<img src="https://i.imgur.com/XjGQf3z.png">
-
-> [Vídeo explicativo sobre o projeto](https://youtu.be/_4TR3g88akQ)
-
 # Explicação do código
 O código pode ser encontrado no link do [Tinkercad, na aba "Código" no canto superior direito.](https://www.tinkercad.com/things/316zUlV3nzP-brilliant-amur/editel?sharecode=ZDVESLm344NNm34ZEWPucYJBQrtOrZFcA-oQCMIJ-rM)
 
@@ -82,3 +76,10 @@ Caso o usuário erre o led, a função de escolha errada é chamada, caso contr�
 ## Laço principal do programa
 <img src="https://i.imgur.com/t9K0Rw6.png">
 Caso o jogador tenha atingido o nível máximo, o jogo é reiniciado. Caso contrário, o programa analisa a variável "sortear", caso ela seja verdadeira, sorteamos um novo número correspondente ao nível e chamamos a função que mostra a sequência atual ao usuário. Na sequência, o programa lê o botão pressionado pelo usuário e chama a função para verificar se o número escolhido é o número correto. O botão superior no projeto (correspondente à D6 tem a função de reiniciar o programa, simplesmente para que não seja necessário reiniciar o arduino ou recompilar o código).
+
+# Cálculos
+> Cálculos realizados para projetar o circuito
+<img src="https://i.imgur.com/XjGQf3z.png">
+
+> [Vídeo explicativo sobre o projeto](https://youtu.be/_4TR3g88akQ)
+

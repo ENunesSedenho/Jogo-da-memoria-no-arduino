@@ -71,8 +71,7 @@ Essa função é encarregada de restaurar as variáveis para seus valores padrã
 Quando o jogador erra a sequência, o programa inicia um laço para piscar repetidamente os leds e emitir efeitos sonoros (o laço ocorre por 3 vezes). Na sequência, os números sorteados são redeclarados para 0, e a função "reiniciar" é chamada para recomeçar o jogo.
 
 ## Acendendo os leds da sequência
-<img src="https://i.imgur.com/IY2SMWS.png">
-<img src="https://i.imgur.com/rb3qi1F.png">
+<img src="https://i.imgur.com/XzuE4QT.png">
 Cada número sorteado corresponde a um led, 1 para verde, 2 para vermelho, 3 para amarelo e 4 para azul.
 Uma vez que o vetor de núemros sorteados foi inicializado com a sequência da atual rodada, essa função é iniciada. Um laço que vai de 0 até o nível atual (quantidade de números do vetor) faz com que, para cada posição deslocada no vetor, o led correspondente ao número brilhe e um efeito sonoro seja produzido.
 

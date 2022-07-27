@@ -16,7 +16,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 
 |  Qtd.  |  Componente |  Preço  |
 |---|---|---|
-| 1x | Arduino UNO | R$ XXX |
+| 1x | Arduino UNO 5V | R$ 110,00 |
 | 5x | Push button 4 pinos | R$ 0,70 |
 | 1x | Buzzer ativo 5V | R$ 8,00 |
 | 1x | Led difuso 5mm azul | R$ 2,00 |
@@ -27,7 +27,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 | 3x | Resistor 220 Ω | R$ 0,70 |
 | 1x | Protoboard | - | - |
 | 12x | Fios Jumpers | - | - |
-| Total | - | R$ XXXX |
+| Total | - | R$ 127,80 |
 
 _Obs.: Os fios e a protoboard foram emprestados do laboratório._
 

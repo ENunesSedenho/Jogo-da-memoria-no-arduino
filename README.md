@@ -7,7 +7,7 @@ Projeto da disciplina de Eletrônica para Computação, ministrada pelo Professo
 ## Grupo 44
 |  Nº USP  |  Aluno  |
 |---|---|
-| 13671810 | Enzo Nunes Sedenho | 
+| 13671810 | Cecília Nunes Sedenho | 
 | 13782369 | Luis Henrique Giorgetti Dantas | 
 | 13672766 | Pedro Augusto Monteiro Delgado | 
 | 13677239 | Yvin Miguel Juanico Carvalho | 
